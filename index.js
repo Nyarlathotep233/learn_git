@@ -6,3 +6,7 @@ console.log("hello javascript")
 function divide(a, b) {
   return a / b
 }
+
+function testFun(params) {
+  console.log("test code")
+}
