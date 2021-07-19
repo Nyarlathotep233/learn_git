@@ -16,5 +16,3 @@ function testFun(params) {
 // test stash
 
 // code in old version
-
-// wrong commit in code
