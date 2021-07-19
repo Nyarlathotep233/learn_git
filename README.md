@@ -12,3 +12,6 @@ learn_git
 
 ## checkout
 回退版本
+
+## revert
+撤销上一次提交的修改，会生成一个相反的提交
