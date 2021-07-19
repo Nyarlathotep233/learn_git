@@ -12,3 +12,5 @@ function testFun(params) {
 }
 
 // test wrong commit
+
+// test stash
