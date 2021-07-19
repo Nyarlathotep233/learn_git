@@ -6,3 +6,6 @@ learn_git
 
 ## rebase
 另一种合并方式，代码会被“嫁接”到目标分支上
+
+## fast forward
+让一个指针指向最新的提交
