@@ -9,3 +9,6 @@ learn_git
 
 ## fast forward
 让一个指针指向最新的提交
+
+## checkout
+回退版本
